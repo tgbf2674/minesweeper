@@ -10,7 +10,10 @@
     "test": "vitest"
   },
   "dependencies": {
+    "@iconify-json/mdi": "^1.1.10",
+    "@types/diff-match-patch": "^1.0.32",
     "@vueuse/core": "^8.3.1",
+    "diff-match-patch": "^1.0.5",
     "vue": "^3.2.33",
     "vue-router": "^4.0.14"
   },
